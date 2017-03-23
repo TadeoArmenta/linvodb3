@@ -3906,7 +3906,7 @@ module.exports.AVLTree = require('./lib/avltree');
 var BinarySearchTree = require('./bst')
   , customUtils = require('./customUtils')
   , util = require('util')
-  , _ = require('underscore')
+  , _ = require('lodash')
   ;
 
 
