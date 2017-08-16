@@ -25,6 +25,7 @@
   "dependencies": {
     "async": "1.x.x",
     "bagpipe": "Ivshti/bagpipe",
+    "bignumber.js": "^4.0.2",
     "binary-search-tree": "0.2.6",
     "hat": "0.0.3",
     "levelup": "^1.2.1",
