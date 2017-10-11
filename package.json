@@ -29,6 +29,7 @@
     "binary-search-tree": "0.2.6",
     "hat": "0.0.3",
     "levelup": "^2.0.0",
+    "leveldown": "^2.0.0",    
     "lodash": "^4.17.4",
     "path": "^0.12.7",
     "util": "Ivshti/node-util"
@@ -37,7 +38,6 @@
     "chai": "1.0.x",
     "commander": "1.1.1",
     "exec-time": "0.0.2",
-    "leveldown": "^2.0.0",
     "mocha": "1.4.x",
     "request": "2.9.x",
     "rimraf": "2.2.x",
