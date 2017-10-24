@@ -1,6 +1,6 @@
 var should = require('chai').should()
   , assert = require('chai').assert
-  , testDb = 'workspace/test.db'
+  , testDb = 'test.db'
   , fs = require('fs')
   , path = require('path')
   , _ = require('lodash')
