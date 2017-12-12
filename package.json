@@ -24,7 +24,7 @@
   },
   "dependencies": {
     "async": "1.x.x",
-    "bagpipe": "Ivshti/bagpipe",
+    "bagpipe": "https://github.com/aerys/bagpipe.git",
     "binary-search-tree": "0.2.6",
     "bson": "^1.0.4",
     "hat": "0.0.3",
